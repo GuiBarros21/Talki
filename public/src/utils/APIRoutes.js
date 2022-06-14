@@ -1,4 +1,4 @@
-export const host = "https://cosmic-buttercream-de6aad.netlify.app/";
+export const host = "localhost";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const logoutRoute = `${host}/api/auth/logout`;
